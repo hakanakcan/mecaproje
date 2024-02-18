@@ -1,0 +1,9 @@
+
+path: C:/Users/Hakan/Desktop/Projetest/train_data_earthquake
+train: images/train/  # train images (relative to 'path') 118287 images
+val: images/train/  # l images (relative to 'path') 5000 images
+
+
+nc: 6
+
+names: ['construction-machine','rescue-team','collapsed', 'solid', 'damaged', 'tilted']
